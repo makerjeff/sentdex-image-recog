@@ -6,6 +6,10 @@
 - [Python 2.7.13 Built-In Functions](https://docs.python.org/2/library/functions.html)
 - [Use raw_input() instead of input()](http://stackoverflow.com/questions/4960208/python-2-7-getting-user-input-and-manipulating-as-string-without-quotations): Input evaluates as Python code.
 - [Simple Http Server in Python](https://www.junian.net/2014/07/simple-http-server-and-client-in-python.html)
+- [Colors in Python terminal](http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-python)
+- [Python IF OR logic](http://stackoverflow.com/questions/7141208/python-simple-if-or-logic-statement): Also to note, python uses the 'not' operator instead of a '!' like JS.
+- [Python Tips: The Python 'yield' keyword explained](https://pythontips.com/2013/09/29/the-python-yield-keyword-explained/)
+
 
 ## MODULES
 - [Python Pillow module](https://pillow.readthedocs.io/en/4.0.x/handbook/tutorial.html)
