@@ -14,7 +14,7 @@ import sys
 def write_random_numbers(num_of_items):
 
     print 'opening file... '
-    time.sleep(2)
+    time.sleep(1)
     with open('data/data.txt', 'a') as file:
 
         for item in range(0, num_of_items):
@@ -23,7 +23,7 @@ def write_random_numbers(num_of_items):
 
             file.write(str(randNum) + '\n')
             print 'writing ' + str(randNum)
-            time.sleep(0.1)
+            time.sleep(0.01)
         print 'closing file after "with" loop.'
 
 
