@@ -22,7 +22,7 @@ iar3 = np.array(i3)
 i4 = Image.open('images/sentdex.png')
 iar4 = np.array(i4)
 
-fig = plt.figure()
+fig = plt.figure('fee-gurr 1')
 ax1 = plt.subplot2grid((8,6), (0,0), rowspan=4, colspan=3)
 ax2 = plt.subplot2grid((8,6), (4,0), rowspan=4, colspan=3)
 ax3 = plt.subplot2grid((8,6), (0,3), rowspan=4, colspan=3)
